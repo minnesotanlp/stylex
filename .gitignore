@@ -1,0 +1,12 @@
+../data/
+__pycache__/
+logdir/
+pseudo_labels/
+predictions/
+checkpoints/
+sufficiency/
+.idea/
+
+temp.py
+
+.vscode/
